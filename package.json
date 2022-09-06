@@ -1,0 +1,14 @@
+{
+  "name": "hangedman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hangedMan.js",
+  "scripts": {
+    "start": "node hangedMan.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.5.2"
+  }
+}
